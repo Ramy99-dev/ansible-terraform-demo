@@ -1,3 +1,5 @@
 .terraform
-./terraform/credentials
-./ansible/tfkey.pem
+terraform/credentials
+ansible/tfkey.pem
+ansible/inventory.ini
+.gitignore

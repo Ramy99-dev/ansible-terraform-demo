@@ -3,3 +3,6 @@ terraform/credentials
 ansible/tfkey.pem
 ansible/inventory.ini
 .gitignore
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform.lock.hcl
